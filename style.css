@@ -1,5 +1,6 @@
 body {
   background-color: #112f4a;
+  font-family: "Mouse Memoirs", sans-serif;
 }
 
 .color-bg {
@@ -8,4 +9,8 @@ body {
 .img-class {
   width: 100px;
   height: 32px;
+  max-width: 100%;
+}
+span {
+  color: #38bdf8;
 }
