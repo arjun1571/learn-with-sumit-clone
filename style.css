@@ -14,3 +14,17 @@ body {
 span {
   color: #38bdf8;
 }
+.futer-img {
+  height: 112px;
+  width: 112px;
+  max-width: 100%;
+}
+.main-container {
+  height: 500px;
+}
+.bg-bg {
+  background-color: #182233;
+}
+.icon-size {
+  font-size: 70px;
+}
